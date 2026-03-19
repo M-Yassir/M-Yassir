@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>As a 4th-year engineering student at ENSAM Meknès (Software Engineering & Intelligent Systems), I thrive at the intersection of AI research and software engineering.</p>
-  <p>I don't just specialize in one piece of the puzzle—I engineer the <b>complete Machine Learning lifecycle</b>. While I love designing and fine-tuning predictive models, I also build the continuous MLOps workflows and scalable cloud architectures needed to host them. I absolutely hate the phrase <i>"it works on my local machine,"</i> so I make sure my models work flawlessly for the end user.</p>
+  <p>I don't just specialize in one piece of the puzzle, I engineer the <b>complete Machine Learning lifecycle</b>. While I love designing and fine-tuning predictive models, I also build the continuous MLOps workflows and scalable cloud architectures needed to host them. I absolutely hate the phrase <i>"it works on my local machine,"</i> so I make sure my models work flawlessly for the end user.</p>
   <p><i>I take ownership of everything from the first epoch of training to a highly available cloud deployment.</i></p>
 </div>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,nodejs,express,fastapi,docker,git,linux,aws,terraform,postgres,mysql,mongodb,tensorflow,pytorch,scikitlearn,opencv&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,nodejs,express,fastapi,docker,git,linux,aws,terraform,githubactions,postgres,mysql,mongodb,tensorflow,pytorch,scikitlearn,opencv&perline=10" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&ring_color=6366f1" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Yassir&show_icons=true&theme=radical&hide_border=true&ring_color=6366f1" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=M-Yassir&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="48%" alt="GitHub Streak" />
 </p>
 
