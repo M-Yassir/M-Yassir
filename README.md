@@ -17,7 +17,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-yassir-abouchiba-05a938334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-yassir-abouchiba-05a938334/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   <a href="mailto:m.abouchiba0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </div>
