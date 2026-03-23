@@ -44,13 +44,11 @@
 
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
-| **[AI Vision Classifier](#)** | A deep learning model built to classify complex image datasets in real-time with 95% accuracy. | PyTorch · OpenCV · Python |
-| **[Smart IoT Dashboard](#)** | Full-stack web dashboard that processes and visualizes live sensor data from IoT devices. | React · Node.js · MongoDB |
-| **[NLP Sentiment Engine](#)** | Natural Language Processing tool that scrapes social media feeds to determine market sentiment. | TensorFlow · FastAPI · Scikit-Learn |
+| **[YouTube Sentiment Analysis & MLOps Platform](https://github.com/M-Yassir/youtube-sentiment-analyser)** | An end-to-end ML system that analyzes YouTube comment sentiment. It features a complete MLOps lifecycle, including data harvesting, model training, cloud deployment (AWS), and a human-in-the-loop feedback mechanism. | Scikit-Learn · FastAPI · Terraform · Docker · MLflow |
+| **[StockNex](https://github.com/ABDELALIKHOLTY/StockNex)** | An adaptive stock market prediction platform that uses 500+ specialized LSTM models, one for each S&P 500 company, to deliver on-demand forecasts with confidence intervals. | TensorFlow · FastAPI · Next · PostgreSQL · Docker |
+| **[Industrial Anomaly Detection](https://github.com/M-Yassir/Insight-AD)** | A production-ready computer vision system for factory quality control. It documents the journey from R&D (Autoencoders) to a deployed, high-accuracy PatchCore model, served via a containerized FastAPI and frontend. | PyTorch · FastAPI · Docker · MLflow |
 
 > **Note:** *Click on the project names to view the repositories!*
-
----
 
 ---
 
