@@ -59,7 +59,8 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Yassir&show_icons=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=M-Yassir&background=0d1117&title_color=0ea5e9&labels=c9d1d9&dates=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=M-Yassir&theme=dark&background=0d1117&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Yassir&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=c9d1d9&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
