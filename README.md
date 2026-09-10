@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <p>As a 4th-year engineering student at ENSAM Meknès (Software Engineering & Intelligent Systems), I thrive at the intersection of AI research and software engineering.</p>
+  <p>As a 5th-year engineering student at ENSAM Meknès (Software Engineering & Intelligent Systems), I thrive at the intersection of AI research and software engineering.</p>
   <p>I don't just specialize in one piece of the puzzle, I engineer the <b>complete Machine Learning lifecycle</b>. While I love designing and fine-tuning predictive models, I also build the continuous MLOps workflows and scalable cloud architectures needed to host them. I absolutely hate the phrase <i>"it works on my local machine,"</i> so I make sure my models work flawlessly for the end user.</p>
   <p><i>I take ownership of everything from the first epoch of training to a highly available cloud deployment.</i></p>
 </div>
