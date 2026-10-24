@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,nodejs,fastapi,docker,git,linux,aws,terraform,githubactions,postgres,mongodb,tensorflow,pytorch,scikitlearn,opencv,huggingface,lanchain&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,nodejs,express,fastapi,docker,git,linux,aws,terraform,githubactions,mysql,postgres,mongodb,tensorflow,pytorch,scikitlearn,opencv,huggingface,lanchain&perline=10" />
   </a>
 </p>
 
